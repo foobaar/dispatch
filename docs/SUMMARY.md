@@ -12,6 +12,6 @@
 - [Security](security.md)
 - [Internal Metrics](internal-metrics.md)
 - [Plugins](plugins.md)
-- [Frequently Asked Questoins](faq.md)
+- [Frequently Asked Questions](faq.md)
 - [Changelog](changelog.md)
 - [License](license.md)
